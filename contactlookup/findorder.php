@@ -1,6 +1,6 @@
 <html>
 		<head>
-	<title>Find a Contact</title>
+	<title>Info lookup</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="styles/custom.css" />
 <link rel="stylesheet" href="themes/rasmussenthemeroller.min.css" />
@@ -14,7 +14,7 @@
 		<div id="page" data-role="page" data-theme="b" >
 	<div data-role="header" data-theme="b">
 <h1>
-	Find your contact
+	Contact Info Lookup
 		</h1>	</div>
 				<div data-role="content">
 
