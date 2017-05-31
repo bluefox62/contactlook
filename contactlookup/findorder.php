@@ -50,7 +50,7 @@
 					?>
 
 				<div data-role="footer" data-theme="b">
-	  <h4>Darice Corey-Gilbert &copy; 2017</h4>
+	  <h4>Brett Riegert &copy; 2017</h4>
 	</div>
 	</body>
 </html>
