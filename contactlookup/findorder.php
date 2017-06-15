@@ -38,7 +38,7 @@
 					        echo "Email: " . $row["email"]. "<br>";
 					        echo "Phone #: " . $row["phone"]. "<br>";
 									echo "City: " . $row["city"]. "<br>";
-									echo "Address: " . $row["location"]. "<br>";
+									echo "Address: " . $row["sadd"]. "<br>";
 									echo "Name: " . $row["fname"]. "<br>";
 					    }
 					} else {
